@@ -13,7 +13,7 @@ public class ScannerTest {
         System.out.println("Você digitou o número: " + y);
 
         double z;
-        y = sc.nextDouble();
+        z = sc.nextDouble();
         System.out.println("Você digitou o número: " + z);
 
         sc.close();
