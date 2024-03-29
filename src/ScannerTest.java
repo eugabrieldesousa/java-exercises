@@ -8,6 +8,10 @@ public class ScannerTest {
         x = sc.next();
         System.out.println("Você digitou: " + x);
 
+        int y;
+        y = sc.nextInt();
+        System.out.println("Você digitou o número: " + y);
+
         sc.close();
     }
 }
