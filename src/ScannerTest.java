@@ -12,6 +12,10 @@ public class ScannerTest {
         y = sc.nextInt();
         System.out.println("Você digitou o número: " + y);
 
+        double z;
+        y = sc.nextDouble();
+        System.out.println("Você digitou o número: " + z);
+
         sc.close();
     }
 }
